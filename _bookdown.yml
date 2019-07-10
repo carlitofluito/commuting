@@ -1,0 +1,7 @@
+book_filename: "commutingCarlitoFluito"
+chapter_name: ""
+repo: https://github.com/carlitofluito/commuting
+output_dir: docs
+rmd_files: ["index.Rmd", "01-writelot.Rmd", "02-chain.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes

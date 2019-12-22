@@ -1,6 +1,6 @@
 # Beginning
 
-## He and she
+## (S)He
 
 You write a lot, he said. 
 
@@ -32,7 +32,7 @@ Another hour was gone, fortunately, this time without pain, this time without fe
 
 That photo had become another burden on his heart. He had not decided to see it. As it had faded away, it had just appeared on the screen. Regrettably, it remained in his mind. He had neither possibilities nor freedom of election. He was imposed to watch what other people want him to watch. The printed copy of the picture awaited in his shoebox, hidden for five years now. 
 
-## Lies and truths
+## Lies
 
 Luckily, he passed over the kitchen when closing the door. Simply that. Over time, with doses of patience and self-acceptance, the assemblage of mugs, spoons and tea bags arrayed on the desk ends up provoking feelings of melancholia instead of flagellation. Every object has its own story. Giving it a thought, it is almost impossible to disorder a room in purpose. Outside, on the street, the once polished and spotless white bike had become a bunch of soldered iron stick and gears with a color closer to dirty orange than to clean brown. It was not that he had not had free time, but one never finds the right moment to do what one has to do. 
 
@@ -66,7 +66,7 @@ Back on the spot where the chain had broken, the tears were running wildly down 
 “Don’t lie to me fucking inert asphalt! Don’t lie to me!”
 Or were the shadow of the clouds what made every situation look different?
 
-## Memories and imagination
+## Truths
 
 It was already too late to go where he had to go, where he wanted to go. Considering the recently made wound in his left calf, and the high chance of getting a severe infection by the rust and dirt of the pedal, visiting a hospital was the best possibility that he could think of. He painfully stood up, took the useless bike, and lock it to the traffic light that had started this new episode of his life. Most likely, the city services would stick a note about the illegality of locking there the bike during the next 48 hours and proceed to its withdrawal in the next week. He better hurry if he didn’t want to lose his main way of commuting. Withdrawal dates, as deadlines, have its type of utility. 
 

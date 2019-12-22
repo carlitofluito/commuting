@@ -82,9 +82,9 @@ The concept more than the words had stuck to the driver’s brain. It was true t
 
 When he saw that guy limping towards the bus and waving his arm like a desperate zombie hungry of compassion, he only could but wait. 
 
--	Thank you! I really needed to catch the bus. 
+--	Thank you! I really needed to catch the bus. 
 
--	No problem. 
+-	 No problem. 
 
 -	Is this bus passing close to a hospital?
 
